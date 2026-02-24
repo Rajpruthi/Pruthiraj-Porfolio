@@ -49,4 +49,4 @@ npm run build
 
 ## License
 
-© 2024 Pruthiraj Portfolio. All rights reserved.
+© 2026 Pruthiraj Portfolio. All rights reserved.
